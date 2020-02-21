@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-table-mapping>
+	<mapping class="com.mec.dataBase.test.model.CourseModel" 
+			table="course">
+		<column id="id" property="id" column="cno"></column>
+		<column property="name" column="cname"></column>
+	</mapping>
+</class-table-mapping>
