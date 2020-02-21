@@ -1,0 +1,2 @@
+# easyDatabaseUtil
+简单的实现了一些数据库数据与java对象进行包装的工具
